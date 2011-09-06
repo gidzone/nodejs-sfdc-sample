@@ -2,7 +2,9 @@
 	A sample app for the node-sfdc package.
 
 ## Quickstart
-	Ensure your local environment is configured for running heroku node.js applications.  Please see here: http://devcenter.heroku.com/articles/node-js
+	Ensure your local environment is configured for running heroku node.js applications.  
+	
+	Please see here: http://devcenter.heroku.com/articles/node-js
 
 	//replace these with your client id and client secret from your sfdc org.
 
