@@ -1,17 +1,18 @@
 ## nodejs-sfdc-sample
-A sample app for the node-sfdc package.
+	A sample app for the node-sfdc package.
 
 ## Quickstart
-Ensure your local environment is configured for running heroku node.js applications.  Please see here: http://devcenter.heroku.com/articles/node-js
+	Ensure your local environment is configured for running heroku node.js applications.  Please see here: http://devcenter.heroku.com/articles/node-js
 
-//replace these with your client id and client secret from your sfdc org.
-var clientId = 'Add Client Id from Setup->Develop->Remote Access';
+	//replace these with your client id and client secret from your sfdc org.
 
-var clientSecret = 'Add Client Secret from Setup->Deveop->Remote Accesss'; 
+	var clientId = 'Add Client Id from Setup->Develop->Remote Access';
 
-Run the foreman start at the command line
+	var clientSecret = 'Add Client Secret from Setup->Deveop->Remote Accesss'; 
 
-Navigate to http://locahost:5000 to get started.
+	Run the foreman start at the command line
+
+	Navigate to http://locahost:5000 to get started.
 
 ## License 
 
