@@ -6,9 +6,11 @@ Ensure your local environment is configured for running heroku node.js applicati
 
 //replace these with your client id and client secret from your sfdc org.
 var clientId = 'Add Client Id from Setup->Develop->Remote Access';
+
 var clientSecret = 'Add Client Secret from Setup->Deveop->Remote Accesss'; 
 
 Run the foreman start at the command line
+
 Navigate to http://locahost:5000 to get started.
 
 ## License 
