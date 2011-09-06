@@ -1,0 +1,20 @@
+h1= title
+- var path = '/upsert/'+sobject+'/'+field+'/'+extid
+	form(method='post', action=path)
+		li
+			label(for='FirstName') First Name:		
+			input(name='FirstName', type='text')
+		li
+			label(for='LastName') Last Name:		
+			input(name='LastName', type='text')
+		li
+			label(for='Email') Email:		
+			input(name='Email', type='text')
+		li
+			label(for='Phone') Phone:		
+			input(name='Phone', type='text')	
+		li
+			label(for='Company') Company:		
+			input(name='Company', type='text')
+		li
+			input(value='Upsert', type='submit')
